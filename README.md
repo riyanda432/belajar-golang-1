@@ -1,1 +1,1 @@
-d
+dgit config --system color.ui true
